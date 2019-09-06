@@ -1,5 +1,5 @@
 # KeeWeb
-![Issues](https://img.shields.io/github/issues/SvenC56/docker-keeweb) ![License](https://img.shields.io/github/license/SvenC56/docker-keeweb) ![Twitter](https://img.shields.io/twitter/url/https/github.com%2FSvenC56%2Fdocker-keeweb)
+![Issues](https://img.shields.io/github/issues/SvenC56/docker-keeweb) ![License](https://img.shields.io/github/license/SvenC56/docker-keeweb) ![Twitter](https://img.shields.io/twitter/url/https/github.com%2FSvenC56%2Fdocker-keeweb) [![](https://images.microbadger.com/badges/version/svenc56/keeweb.svg)](https://microbadger.com/images/svenc56/keeweb "Get your own version badge on microbadger.com")
 
 Original Image: [Github](https://github.com/keeweb/keeweb)
 This webapp is a browser and desktop password manager compatible with KeePass databases. It doesn't require any server or additional resources. The app can run either in browser, or as a desktop app.
