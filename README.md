@@ -5,7 +5,7 @@ Original Image: [Github](https://github.com/keeweb/keeweb)
 This webapp is a browser and desktop password manager compatible with KeePass databases. It doesn't require any server or additional resources. The app can run either in browser, or as a desktop app.
 
 ## Sidenotes
-This image uses the latest Alpine Nginx container. It gets automaticly updated with every new release from KeeWeb.
+This image uses the latest Alpine Nginx container. It gets automatically updated with every new release from KeeWeb.
 
 ## Usage
 
