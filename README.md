@@ -35,3 +35,9 @@ directory:
 Service     | Port | Usage
 ------------|------|------
 KeeWeb      | 80 | When using `docker run`, visit `http://localhost:80` in your browser
+
+## Volumes
+
+Volume          | Description
+----------------|-------------
+`/usr/share/nginx/html/config.json` | The location of the optional config of KeeWeb.
